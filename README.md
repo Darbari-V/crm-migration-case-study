@@ -4,23 +4,36 @@
 
 > **About this case study.** MavenTech is a fictional company from a [Maven Analytics practice challenge](https://mavenanalytics.io/challenges/maven-sales-challenge), and its data is Maven Analytics' public-domain [CRM Sales Opportunities](https://mavenanalytics.io/data-playground/crm-sales-opportunities) dataset. I play the role of MavenTech's business analyst. The analysis is my own, built while I study for the BCS Foundation Certificate in Business Analysis.
 
-## The problem
+## Overview
 
-MavenTech sells computer hardware to large businesses. Its managers can't see their sales data outside their current CRM, and nobody has checked how complete or accurate that data is.
+**The problem.** MavenTech sells computer hardware to large businesses. Its managers can't see their sales data outside their current CRM, and nobody has checked how complete or accurate that data is.
 
 Before it moves to Salesforce, MavenTech needs three things: the requirements the new system must meet, rules for moving and cleaning its existing data, and tests that prove the move worked.
 
-## Why I'm building it
+**Why I'm building it.** I'm building this case study to show, with real documents, how I work as an IT business analyst: from understanding a business problem to proving that the new system works.
 
-I'm building this case study to show, with real documents, how I work as an IT business analyst: from understanding a business problem to proving that the new system works.
+## Deliverables
 
-## Progress
+Click any finished deliverable to read it. I add the next one as soon as it's done.
 
-| # | Deliverable | What it shows | Status |
+### Ready to read
+
+- [Project brief](docs/01-project-brief.md)
+
+  Objectives, scope, stakeholders, legacy data, constraints and risks
+
+- [PESTLE and SWOT](docs/02-pestle-swot.md)
+
+  The outside forces on MavenTech, and what the new CRM must handle because of them
+
+- [Stakeholder analysis](docs/03-stakeholder-analysis.md)
+
+  Who is affected, how to manage each group, and who does what (RACI)
+
+### Coming next
+
+| # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 1 | [Project brief](docs/01-project-brief.md) | Objectives, scope, stakeholders, legacy data, constraints and risks | Done |
-| 2 | [PESTLE and SWOT](docs/02-pestle-swot.md) | The outside forces on MavenTech, and what the new CRM must handle because of them | Done |
-| 3 | [Stakeholder analysis](docs/03-stakeholder-analysis.md) | Who is affected, how to manage each group, and who does what (RACI) | Done |
 | 4 | AS-IS process map | How a sales deal moves through MavenTech today, as a swimlane diagram | Next |
 | 5 | TO-BE process map and gap analysis | How the process should work in Salesforce, and what must change | Planned |
 | 6 | Business case summary | Options, costs, benefits and risks | Planned |
