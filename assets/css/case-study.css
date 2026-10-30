@@ -442,3 +442,15 @@ body {
     padding-right: 9px;
   }
 }
+
+
+/* Diagrams and pictures: never wider than the page. Click one to open it full size */
+.content img {
+  display: block;
+  box-sizing: border-box;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #ffffff;
+}
