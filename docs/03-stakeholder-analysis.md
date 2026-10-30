@@ -50,7 +50,7 @@ Each stakeholder is placed by two questions: could they stop or change this proj
 | Large business customers | Low | Low | Ignore | Can't affect the project, and never see MavenTech's internal tool |
 | Salesforce | Some | Low | Keep onside | MavenTech must work within its platform, but it doesn't know about this project |
 | Hardware makers | Low | Low | Ignore | The CRM change doesn't affect them |
-| Data Protection Commission | High | Low | Watch | Can fine MavenTech, but isn't watching this project |
+| Data Protection Commission | High | Low | Watch | Can fine MavenTech if the new CRM breaks GDPR, but isn't watching this project |
 | Rival hardware sellers | Low | Low | Ignore | Don't know or care about MavenTech's CRM |
 
 ## RACI chart
