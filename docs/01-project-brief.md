@@ -27,7 +27,7 @@ In this case, MavenTech has decided to move to Salesforce. Before it switches, i
 **In scope**
 
 - The four tables in the CRM export: accounts, products, sales teams and opportunities
-- The opportunity process, from first engagement to won or lost
+- The opportunity process, from prospecting to won or lost
 - Data migration and cleansing rules
 - Sales managers' pipeline and team reporting
 - User acceptance testing of the migrated data and configured processes
