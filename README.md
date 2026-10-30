@@ -30,12 +30,15 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
   Who is affected, how to manage each group, and who does what (RACI)
 
+- [As-is process map](docs/04-as-is-process-map.md)
+
+  How a deal moves through MavenTech today, as a swimlane diagram, and where it goes wrong
+
 ### Coming next
 
 | # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 4 | AS-IS process map | How a sales deal moves through MavenTech today, as a swimlane diagram | Next |
-| 5 | TO-BE process map and gap analysis | How the process should work in Salesforce, and what must change | Planned |
+| 5 | To-be process map and gap analysis | How the process should work in Salesforce, and what must change | Next |
 | 6 | Business case summary | Options, costs, benefits and risks | Planned |
 | 7 | Requirements catalogue and user stories | What the new system must do, with acceptance criteria | Planned |
 | 8 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Planned |
@@ -43,7 +46,7 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
 ## Techniques used so far
 
-PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log
+PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis
 
 ## About me
 
