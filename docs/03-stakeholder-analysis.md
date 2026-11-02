@@ -63,7 +63,7 @@ Each stakeholder is placed by two questions: could they stop or change this proj
 | Clean and move the data | A | R | C | I | C |  | C | I |
 | Set up Salesforce | A | R | C | C | R | I | C | R |
 | Run user acceptance testing | A | C | R | R | C | I | C | C |
-| Train the sales team | A | R | C | I | R |  | C | I |
+| Plan the sales team's training | A | R | C | I | R |  | C | I |
 
 ## Sources
 
