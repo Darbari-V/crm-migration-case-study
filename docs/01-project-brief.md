@@ -71,7 +71,7 @@ The deal stages and the parent-company links come from two Maven Analytics showc
 
 ## Constraints, assumptions and risks
 
-Recorded as a CARDI log (constraints, assumptions, risks, dependencies and issues), the format the BCS syllabus uses for a business case. It grows as the business case is written.
+Recorded as a CARDI log (constraints, assumptions, risks, dependencies and issues), the format the BCS syllabus uses for a business case. It grows as the business case is written, and the [business case summary](06-business-case.md) holds the latest version.
 
 | Type | Item |
 | --- | --- |
