@@ -38,18 +38,21 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
   How a deal will move once Salesforce is in, and what must change to get there
 
+- [Business case summary](docs/06-business-case.md)
+
+  Three options compared, with feasibility, payback, net present value and the CARDI log
+
 ### Coming next
 
 | # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 6 | Business case summary | Options, costs, benefits and risks | Next |
-| 7 | Requirements catalogue and user stories | What the new system must do, with acceptance criteria | Planned |
+| 7 | Requirements catalogue and user stories | What the new system must do, with acceptance criteria | Next |
 | 8 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Planned |
 | 9 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
 
 ## Techniques used so far
 
-PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis
+PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV
 
 ## About me
 
