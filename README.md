@@ -42,17 +42,20 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
   Three options compared, with feasibility, payback, net present value and the CARDI log
 
+- [Requirements catalogue and user stories](docs/07-requirements-catalogue.md)
+
+  Eleven requirements, typed, prioritised and traced to their drivers, and ten user stories with acceptance criteria
+
 ### Coming next
 
 | # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 7 | Requirements catalogue and user stories | What the new system must do, with acceptance criteria | Next |
-| 8 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Planned |
+| 8 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Next |
 | 9 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
 
 ## Techniques used so far
 
-PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV
+PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV · Document analysis · MoSCoW prioritisation · Requirements catalogue · User stories and acceptance criteria
 
 ## About me
 
