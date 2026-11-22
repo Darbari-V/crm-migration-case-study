@@ -46,16 +46,20 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
   Eleven requirements, typed, prioritised and traced to their drivers, and ten user stories with acceptance criteria
 
+- [Product backlog and Sprint 1 plan](docs/08-product-backlog.md)
+
+  Ten user stories in five epics, ordered by priority and dependency, with the Product Goal and a two-week first sprint
+
 ### Coming next
 
 | # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 8 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Next |
-| 9 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
+| 9 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Next |
+| 10 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
 
 ## Techniques used so far
 
-PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV · Document analysis · MoSCoW prioritisation · Requirements catalogue · User stories and acceptance criteria
+PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV · Document analysis · MoSCoW prioritisation · Requirements catalogue · User stories and acceptance criteria · Scrum · Product backlog and epics · Sprint planning · Definition of Done
 
 ## About me
 
