@@ -66,7 +66,7 @@ The backlog is ordered by priority first, so the nine Musts sit above the one Sh
 
 ## 5. Next steps
 
-- **Into Jira.** The epics, the stories and their order move into Jira, with the Sprint 1 plan.
+- **Into Jira.** Done: the epics, the stories, their order and the Sprint 1 plan are now in Jira. See [Product backlog in Jira](09-jira-backlog.md).
 - **Refinement.** US-07 is too big for one sprint, so it's split into smaller stories before it's ready for a sprint.
 - **Build.** Sprint 1's stories are built in a Salesforce Trailhead Playground once the data model is specified.
 
