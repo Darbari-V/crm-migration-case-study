@@ -46,7 +46,7 @@ Together with Jira's change history, these cover the main parts of a requirement
 
 ## 4. Next steps
 
-- **Confluence.** The BRD's first pages go into Confluence, linked to these stories.
+- **Confluence.** Done: the BRD's first four sections are now in Confluence, linked to these stories. See [Business requirements document in Confluence](10-confluence-brd.md).
 - **Build.** The stories are built step by step in a Salesforce Trailhead Playground.
 - **Testing.** Problems found in user acceptance testing will be logged in this Jira space.
 
