@@ -54,16 +54,20 @@ Click any finished deliverable to read it. I add the next one as soon as it's do
 
   The backlog set up in Jira: five epics, ten ordered stories with acceptance criteria and MoSCoW, and Sprint 1 planned
 
+- [Business requirements document in Confluence](docs/10-confluence-brd.md)
+
+  The BRD's first four sections in Confluence, with a 26-term glossary, and the requirements and Jira stories linked both ways
+
 ### Coming next
 
 | # | Deliverable | What it will show | Status |
 | --- | --- | --- | --- |
-| 10 | Specification in Jira and Confluence | BRD and FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Next |
-| 11 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
+| 11 | Specification in Jira and Confluence | The BRD's function and data models, plus the FRD, traceability matrix, data mapping, GDPR data inventory and UAT plan | Next |
+| 12 | Salesforce build and user acceptance testing | The data model set up in a Salesforce practice org, sample data loaded, tests run and defects logged | Planned |
 
 ## Techniques used so far
 
-PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV · Document analysis · MoSCoW prioritisation · Requirements catalogue · User stories and acceptance criteria · Scrum · Product backlog and epics · Sprint planning · Definition of Done · Jira
+PESTLE · SWOT · Stakeholder wheel · Power/interest grid · RACI chart · CARDI log · Swimlane diagram · As-is process analysis · To-be process design · POPIT gap analysis · Feasibility assessment · Payback and NPV · Document analysis · MoSCoW prioritisation · Requirements catalogue · User stories and acceptance criteria · Scrum · Product backlog and epics · Sprint planning · Definition of Done · Jira · Business requirements document · Glossary · Confluence
 
 ## About me
 
